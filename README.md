@@ -4,9 +4,9 @@
 
 = operator, 19
 
->> operator, 25
+\>> operator, 25
 
->>> operator, 25
+\>>> operator, 25
 
 & operator, 25
 
