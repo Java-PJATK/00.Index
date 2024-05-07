@@ -20,7 +20,8 @@
 
 ^ operator, 23, 26
 
-activation record, 44
+
+[activation record](https://github.com/Java-PJATK/22.CYS-PassArr?tab=readme-ov-file#static-functions), 44
 
 algorithm, 2
 
@@ -36,27 +37,27 @@ arithmetic operators, 20
 
 array, 52
 
-column of, 56
-
-creating, 52
-
-index, 52
-
-jagged, 55
-
-length, 52
-
-multi-dimensional, 55
-
-rectangular, 55
-
-reference, 52
-
-row of, 56
-
-size, 52
-
-square, 56
+    column of, 56
+    
+    creating, 52
+    
+    index, 52
+    
+    jagged, 55
+    
+    length, 52
+    
+    multi-dimensional, 55
+    
+    rectangular, 55
+    
+    reference, 52
+    
+    row of, 56
+    
+    size, 52
+    
+    square, 56
 
 assert, 103
 
