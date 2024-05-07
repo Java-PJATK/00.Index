@@ -322,9 +322,13 @@ function
 argument, 44
     
   main, 4
+  
   overloading, 50
+  
   [parameter](https://github.com/Java-PJATK/22.CYS-PassArr?tab=readme-ov-file#static-functions), 44
+  
   recursive, 48
+  
   static, [44](https://github.com/Java-PJATK/22.CYS-PassArr?tab=readme-ov-file#static-functions), 60
 
 garbage collector, 11
