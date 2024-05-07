@@ -37,27 +37,27 @@ arithmetic operators, 20
 
 array, 52
 
-    column of, 56
-    
-    creating, 52
-    
-    index, 52
-    
-    jagged, 55
-    
-    length, 52
-    
-    multi-dimensional, 55
-    
-    rectangular, 55
-    
-    reference, 52
-    
-    row of, 56
-    
-    size, 52
-    
-    square, 56
+  column of, 56
+
+  creating, 52
+
+  index, 52
+
+  jagged, 55
+
+  length, 52
+
+  multi-dimensional, 55
+
+  rectangular, 55
+
+  reference, 52
+
+  row of, 56
+
+  size, 52
+
+  square, 56
 
 assert, 103
 
@@ -320,16 +320,12 @@ free memory, 6, 60
 function
 
 argument, 44
-
-main, 4
-
-overloading, 50
-
-parameter, 44
-
-recursive, 48
-
-static, 44, 60
+    
+  main, 4
+  overloading, 50
+  [parameter](https://github.com/Java-PJATK/22.CYS-PassArr?tab=readme-ov-file#static-functions), 44
+  recursive, 48
+  static, [44](https://github.com/Java-PJATK/22.CYS-PassArr?tab=readme-ov-file#static-functions), 60
 
 garbage collector, 11
 
@@ -409,7 +405,7 @@ LIFO, 111
 
 list, 108
 
-local variable, 44
+[local variable](https://github.com/Java-PJATK/22.CYS-PassArr?tab=readme-ov-file#static-functions), 44
 
 logical type, 7
 
@@ -447,7 +443,7 @@ hashCode, 93
 
 overriding, 93
 
-static, 44
+[static](https://github.com/Java-PJATK/22.CYS-PassArr?tab=readme-ov-file#static-functions), 44
 
 virtual, 87
 
