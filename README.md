@@ -675,7 +675,7 @@ StringBufferInputStream (class), 116
 
 StringBuilder (class), 85
 
-StringReader (class), 116
+[StringReader (class)](https://github.com/Java-PJATK/76.BHJ-BytesChars), [116](https://github.com/Java-PJATK/76.BHJ-BytesChars)
 
 StringWriter (class), 116
 
