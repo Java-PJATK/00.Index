@@ -187,9 +187,9 @@ String, 82
 
 StringBufferInputStream, 116
 
-StringBuilder, 85
+[StringBuilder](https://github.com/Java-PJATK/49.BHI-StrBuilder), [85](https://github.com/Java-PJATK/49.BHI-StrBuilder)
 
-StringReader, 116
+[StringReader](https://github.com/Java-PJATK/76.BHJ-BytesChars), [116](https://github.com/Java-PJATK/76.BHJ-BytesChars)
 
 StringWriter, 116
 
